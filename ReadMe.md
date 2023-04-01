@@ -1,23 +1,14 @@
-## Build A SAAS With Django
+## Build Multi Tenant app  With Django
 
 ### Introduction
 
--> What is a Saas and How to build a Saas
 
--> Clone Project files or use your project files
-
-```bash
-# Make sure you have git installed
-git clone https://github.com/Academy-Omen/django-blogx.git
-# clone with SSH
-git clone git@github.com:Academy-Omen/django-blogx.git
-```
 
 -> Create Virtual environment
 
 ```bash
 # Windows
-py -3 -m venv env
+python -m venv env
 # Linux and Mac
 python3 -m venv env
 ```
